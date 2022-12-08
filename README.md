@@ -5,4 +5,3 @@ Users can order the food by filling up the Contact Us form.
 
 I have hosted this website on github pages. 
 
-Link - [click here to open](https://saurabh123321.github.io/StoreToDoor/)
